@@ -21,6 +21,7 @@ Gosto de explorar diferentes áreas do desenvolvimento de software e expandir me
 
 ![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-333?style=for-the-badge&logo=vscodium&logoColor=blue)
 ![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
 ![PyCharm](https://img.shields.io/badge/PyCharm-333?style=for-the-badge&logo=pycharm)
 ![Java](https://img.shields.io/badge/Java-333?style=for-the-badge&logo=coffeescript&logoColor=white)
@@ -29,8 +30,7 @@ Gosto de explorar diferentes áreas do desenvolvimento de software e expandir me
 ![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css&logoColor=1572B6)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-333?style=for-the-badge&logo=bootstrap)
-![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![VS Code](https://img.shields.io/badge/VS%20Code-333?style=for-the-badge&logo=vscodium&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-333?style=for-the-badge&logo=unity&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-333?style=for-the-badge&logo=libreofficecalc&logoColor=green)
 
