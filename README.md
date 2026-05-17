@@ -67,6 +67,7 @@ I use my projects as a way to improve my technical skills, explore new concepts 
 
 - LinkedIn: www.linkedin.com/in/vitor-bernardes-217b6a292
 - Email: vitorsbc589@gmail.com
+- Portfolio: ![Vitor.Dev](https://vitor-bernardes.github.io/Vitor.Dev-Portfolio/)
 
 ---
 
