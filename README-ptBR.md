@@ -67,7 +67,7 @@ Utilizo meus projetos como forma de melhorar minhas habilidades técnicas, explo
 
 - LinkedIn: www.linkedin.com/in/vitor-bernardes-217b6a292
 - Email: vitorsbc589@gmail.com
-- Portfolio: ![Vitor.Dev](https://vitor-bernardes.github.io/Vitor.Dev-Portfolio/)
+- Portfolio: [Vitor.Dev](https://vitor-bernardes.github.io/Vitor.Dev-Portfolio/)
 
 ---
 
